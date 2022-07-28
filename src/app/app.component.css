@@ -1,3 +1,6 @@
+*{
+    text-align: center;
+}
 .btnBody,.routerOutlet{
     margin: 2%;
     padding: 2%;
