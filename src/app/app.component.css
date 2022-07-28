@@ -1,0 +1,13 @@
+.btnBody,.routerOutlet{
+    margin: 2%;
+    padding: 2%;
+    margin-left: 35%;
+    align-items: center;
+    
+}
+.routerOutlet{
+    border: 1px dotted black;
+    margin-right: 32%;
+    border-width: 20%;
+    text-align: center;    
+}
