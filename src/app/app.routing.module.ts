@@ -12,6 +12,8 @@ const routes: Routes = [
   {
     path: 'pc1', component: ParentComponent1Component,
     children: [
+      //{ path: '',redirectTo:'child1',pathMatch:'full'},
+      { path: '', component: ChildComponent1Component },
       { path: 'child1', component: ChildComponent1Component },
       { path: 'child2', component: ChildComponent2Component },
       { path: 'child3', component: ChildComponent3Component },

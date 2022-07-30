@@ -11,7 +11,7 @@ import { ParentComponent2RoutingModule } from './parent-component2.routing.modul
   declarations: [
     ChildComponent1Component,
     ChildComponent2Component,
-    ChildComponent3Component
+    ChildComponent3Component,
   ],
   imports: [
     CommonModule,ParentComponent2RoutingModule
